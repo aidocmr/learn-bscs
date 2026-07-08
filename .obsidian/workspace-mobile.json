@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Mathematics in the Modern World/Mathematical Language and Symbols.md",
+                "file": "Year 1/Mathematics in the Modern World/Type of Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mathematical Language and Symbols"
+              "title": "Type of Patterns"
             }
           }
         ]
@@ -178,21 +178,22 @@
   },
   "active": "ea544e3cd041b796",
   "lastOpenFiles": [
-    "Year 1/Mathematics in the Modern World/Fibonacci Sequence.md",
-    "Year 1/Mathematics in the Modern World/Type of Patterns.md",
     "Year 1/Mathematics in the Modern World/Introduction.md",
-    "index.md",
-    "mandelbrot-set-seahorse-valley.png",
-    "quartz.config.yaml",
-    "fractal-lightning.png",
-    "bilateral-sym-butterfly.png",
-    "mandelbrot-set-full.png",
-    "radial-sym-lily.png",
-    "TODO List (For Writer Only).md",
-    "spiral-andromeda.png",
-    "spiral-cyclone.png",
-    "fractal-tree.png",
+    "Year 1/Mathematics in the Modern World/Fibonacci Sequence.md",
     "Year 1/Mathematics in the Modern World/Mathematical Language and Symbols.md",
+    "_assets",
+    "Year 1/Mathematics in the Modern World/Type of Patterns.md",
+    "index.md",
+    "_assets/mandelbrot-set-seahorse-valley.png",
+    "quartz.config.yaml",
+    "_assets/fractal-lightning.png",
+    "_assets/bilateral-sym-butterfly.png",
+    "_assets/mandelbrot-set-full.png",
+    "_assets/radial-sym-lily.png",
+    "TODO List (For Writer Only).md",
+    "_assets/spiral-andromeda.png",
+    "_assets/spiral-cyclone.png",
+    "_assets/fractal-tree.png",
     "Year 1/Number Theory/Introduction.md",
     "Year 1/Mathematics in the Modern World",
     "Year 1/Number Theory",
