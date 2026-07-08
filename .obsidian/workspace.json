@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "0662c05a45bc278f",
+    "type": "split",
+    "children": [
+      {
+        "id": "13128487e29f8e41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f349dbaa8ad18517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 1/Mathematics in the Modern World/Mathematical Language and Symbols.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mathematical Language and Symbols"
+            }
+          },
+          {
+            "id": "23acb544889434f7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "mandelbrot-set-full.png"
+              },
+              "icon": "lucide-image",
+              "title": "mandelbrot-set-full"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76fd8329b1cb2783",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1549b0a34400b35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd547b354d25c5c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ee4262e19594dc0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eedc664584d8e86e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b79782cfe26b18b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e99a4f802819351",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b6e90d3a8a3bea8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Year 1/Mathematics in the Modern World/Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introduction"
+            }
+          },
+          {
+            "id": "f54cae89ad637470",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Year 1/Mathematics in the Modern World/Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introduction"
+            }
+          },
+          {
+            "id": "d7aa1d44a955d5f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "526c7c60920d9a51",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0c1600fd4bfad33b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Year 1/Mathematics in the Modern World/Mathematical Language and Symbols.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Mathematical Language and Symbols"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f349dbaa8ad18517",
+  "lastOpenFiles": [
+    "quartz.config.yaml",
+    "Year 1/Mathematics in the Modern World/Introduction.md",
+    "spiral-andromeda.png",
+    "Introduction m.md",
+    "Year 1/Mathematics in the Modern World/Mathematical Language and Symbols.md",
+    "mandelbrot-set-full.png",
+    "Year 1/Mathematics in the Modern World/Fibonacci Sequence.md",
+    "Year 1/Number Theory/Introduction.md",
+    "Year 1/Mathematics in the Modern World/Type of Patterns.md",
+    "spiral-cyclone.png",
+    "index.md",
+    "TODO List (For Writer Only).md",
+    "fractal-tree.png",
+    "fractal-lightning.png",
+    "mandelbrot-set-seahorse-valley.png",
+    "bilateral-sym-butterfly.png",
+    "radial-sym-lily.png",
+    "Pasted image 20260706120757.png",
+    "Year 1/Physical Activities Toward Health and Fitness 2",
+    "Year 1/National Service Training Program 2",
+    "Year 1/The Contemporary World",
+    "Year 1/Symbolic Logic",
+    "Year 1/Computer Programming 2",
+    "Year 1/Art Appreciation",
+    "Year 1/Probability and Statistics",
+    "Year 1/Calculus 1",
+    "Year 1/Physical Activities Toward Health and Fitness 1",
+    "Year 1/Computer Programming 1"
+  ]
+}
