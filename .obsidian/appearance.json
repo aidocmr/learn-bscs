@@ -1,1 +1,5 @@
-{}
+{
+  "accentColor": "#999999",
+  "textFontFamily": "Georgia,serif",
+  "monospaceFontFamily": "Source Code Pro,Monospace"
+}
