@@ -45,4 +45,13 @@ Two sets are equivalent if they have the same number of elements and it is denot
 Two sets that do not have the same elements. This is also known as a non-intersecting set.
 ## Operations on Sets
 ### Union of Set
-The union of $A$ and $B$, denoted by $A \union B$
+The union of $A$ and $B$, denoted by $A \cup B$ ($\LaTeX$: `\cup`)
+### Intersection of Set
+The intersection of $A$ and $B$, denoted by $A \cap B$ ($\LaTeX$: `\cap`)
+### Complement of Set
+The complement of a set or absolute complement $A$, denoted by $A'$, is the set of all elements in $x$ in $U$ such that $x$ is not in $A$ (Not an element of $A$)
+### Difference of Set
+The difference of $A$ and $B$, denoted by $A-B$, is the set of all possible ordered pairs with first element from $A$ and second element from $B$
+# Venn Diagram
+Venn Diagram is an illustration that shows logical relationships between two or more sets (grouping items). Venn diagram uses circles (both overlapping and nonoverlapping) or other
+shapes.
