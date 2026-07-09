@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Mathematics in the Modern World/Type of Patterns.md",
+                "file": "Year 1/Mathematics in the Modern World/Fibonacci Sequence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Type of Patterns"
+              "title": "Fibonacci Sequence"
             }
           }
         ]
@@ -176,13 +176,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea544e3cd041b796",
+  "active": "6c86301f907eaa9e",
   "lastOpenFiles": [
+    "/Year 1/Mathematics in the Modern World/Mathematical Language and Symbols.md",
+    "/Year 1/Mathematics in the Modern World/Fibonacci Sequence.md",
+    "/Year 1/Mathematics in the Modern World",
+    "/Year 1",
+    "Year 1/Mathematics in the Modern World/Mathematical Language and Symbols.md",
+    "Year 1/Mathematics in the Modern World/Type of Patterns.md",
     "Year 1/Mathematics in the Modern World/Introduction.md",
     "Year 1/Mathematics in the Modern World/Fibonacci Sequence.md",
-    "Year 1/Mathematics in the Modern World/Mathematical Language and Symbols.md",
+    "Year 1/Number Theory/Introduction.md",
     "_assets",
-    "Year 1/Mathematics in the Modern World/Type of Patterns.md",
     "index.md",
     "_assets/mandelbrot-set-seahorse-valley.png",
     "quartz.config.yaml",
@@ -194,7 +199,6 @@
     "_assets/spiral-andromeda.png",
     "_assets/spiral-cyclone.png",
     "_assets/fractal-tree.png",
-    "Year 1/Number Theory/Introduction.md",
     "Year 1/Mathematics in the Modern World",
     "Year 1/Number Theory",
     "Year 1"
