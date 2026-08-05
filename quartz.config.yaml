@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: aidocmr.github.io/quartz
+  baseUrl: aidocmr.github.io/learn-bscs
   ignorePatterns:
     - private
     - templates

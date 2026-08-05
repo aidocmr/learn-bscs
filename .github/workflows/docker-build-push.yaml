@@ -8,7 +8,7 @@ on:
     branches: [v5]
     paths:
       - .github/workflows/docker-build-push.yaml
-      - learn-bscs/**
+      - quartz/**
   workflow_dispatch:
 
 jobs:
