@@ -113,8 +113,25 @@ a {
       padding: 0;
     }
     &.tag-link {
+      background-color: var(--tag-background);
+      color: var(--tag-color);
+      padding: 0.15rem 0.45rem;
+      border-radius: 4px;
+      font-size: 0.85em;
+      transition: all 0.2s ease;
+
       &::before {
         content: "#";
+        color: var(--secondary);
+      }
+
+      &:hover {
+        background-color: var(--tag-background-hover);
+        color: var(--tag-color-hover);
+
+        &::before {
+          color: var(--tag-color-hover);
+        }
       }
     }
   }

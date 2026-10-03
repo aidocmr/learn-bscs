@@ -1,3 +1,56 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+/* Target the background and text color of Mermaid flowchart edge labels */
+.edgeLabel,
+.edgeLabels .edgeLabel {
+  background-color: var(--lightgray) !important;
+  color: var(--darkgray) !important;
+  fill: var(--darkgray) !important;
+
+  rect {
+    fill: var(--lightgray) !important;
+  }
+
+  span,
+  p,
+  div {
+    background-color: var(--lightgray) !important;
+    color: var(--darkgray) !important;
+  }
+
+  text,
+  tspan {
+    fill: var(--darkgray) !important;
+    color: var(--darkgray) !important;
+  }
+}
+
+/* Tag buttons - high contrast styling */
+a.internal.tag-link,
+a.tag-link,
+.tag-link,
+.note-properties .note-properties-tags .tag-link {
+  background-color: var(--tag-background) !important;
+  color: var(--tag-color) !important;
+  border-radius: 4px;
+  padding: 0.15rem 0.45rem;
+  font-size: 0.85em;
+  font-weight: 500;
+  display: inline-block;
+  line-height: 1.3;
+  text-decoration: none;
+  transition: all 0.2s ease;
+
+  &::before {
+    color: var(--secondary);
+  }
+
+  &:hover {
+    background-color: var(--tag-background-hover) !important;
+    color: var(--tag-color-hover) !important;
+
+    &::before {
+      color: var(--tag-color-hover) !important;
+    }
+  }
+}

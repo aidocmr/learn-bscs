@@ -4,27 +4,21 @@ title: Hello World!
 
 ## What is this exactly?
 
-This is a hobby project that I've been working on to try and port **[Technological
-Institute of the Philippines](https://tip.edu.ph/)**'s Undergraduate Program for
-Bachelor Science in Computer Science _(BSCS)_ curriculum to a quartz garden.
+This is my notes for my entire 4 year program as a Bachelor of Science in Computer Science student.
 
 ## What is this for?
 
-This is my way of learning things. I was given a year worth of learning material
-by students from a higher year from an event, and I really wanted to use that not
-only to my advantage, but also to help others.
+This is my way of learning things. I decided to study in advance because I learn better by myself.
 
 ## Some things you have to know
 
 Yes I may use AI-Generated content _(Still, fuck pax silica)_. This applies only
 to some text, and I'll try my best to keep it at minimum. Images, videos and
-most media are sourced from either the public domain or from myself. Also I may
-copy content made by the mentioned students from higher years.
+most media are sourced from either the public domain or from myself.
 
 You might also catch me working on this while I'm still in the middle of my program.
 Since I haven't graduated, _(Today is 2026)_ there may be some things missing. There's
-nothing I can do about that, unless I somehow get advanced learning material
-from other people.
+nothing I can do about that, unless I somehow get advanced material.
 
 I'll also try to condense lessons. I'm trying to get a high level overview
 so that it applies to more people. You also have to consider the fact that

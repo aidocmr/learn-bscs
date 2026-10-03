@@ -259,9 +259,10 @@ ${stylesheet.join("\n\n")}
   --nav-item-background-active: var(--highlight);
 
   /* Tags */
-  --tag-background: var(--highlight);
-  --tag-color: var(--secondary);
-  --tag-background-hover: var(--lightgray);
+  --tag-background: var(--lightgray);
+  --tag-color: var(--dark);
+  --tag-background-hover: var(--secondary);
+  --tag-color-hover: var(--light);
 
   /* Misc */
   --icon-color: var(--darkgray);
@@ -330,9 +331,10 @@ ${stylesheet.join("\n\n")}
   --nav-item-background-active: var(--highlight);
 
   /* Tags */
-  --tag-background: var(--highlight);
-  --tag-color: var(--secondary);
-  --tag-background-hover: var(--lightgray);
+  --tag-background: var(--lightgray);
+  --tag-color: var(--dark);
+  --tag-background-hover: var(--secondary);
+  --tag-color-hover: var(--dark);
 
   /* Misc */
   --icon-color: var(--darkgray);
